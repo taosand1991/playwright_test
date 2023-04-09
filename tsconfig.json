@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        "types": ["mocha", "chai", "playwright", "node"],
+        "target": "ESNext",
+        "module": "CommonJS",
+        "moduleResolution": "node"
+    }
+}
